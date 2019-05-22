@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 907819ad8c476c74ea6bca0ee36fc966
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: skurgeWall_D
+    2100002: columnstone_D
+    2100004: greyslate_Ptn
+    2100006: PotionsFloor
+    2100008: DungeonStonewall_1
+    2100010: pointedArch
+    2100012: WinthreeQtop_M
+    2100014: Rwall_D
+    2100016: WinthreeQbot
+    2100018: MBWallR_PTN
+    2100020: WindowDarkStoneBtm
+    2100022: LgWallRunner_D
+    2100024: RictRunner_GS
+    2100026: dungeonFloor_1
+    2100028: wallRunner_D
+    2100030: dungeonroundarch
+    2100032: greyslate
+    2100034: trim_A_B_PTN
+    2100036: skurgeWall_D_1
+    2100038: Dfurnace
+    2100040: RictArch_GS
+    2100042: DhallwayArch
+    2100044: dungeonFloor
+    2100046: Sly_A_1
+    2100048: GrandstaircaseStone
+    2100050: LGDungeon_R_1
+    2100052: HWStone_1
+    2100054: blackmetalDoor
+    2100056: IronGate2
+    2100058: squareCol_D
+    2100060: arch4_column_7
+    2100062: GreyFlagstonefl
+    2100064: arch1_R1_GS
+    2100066: skCandlesFloorTrippleCandleTex0
+    2100068: NookDetailDK_PTN
+    2100070: MBWallR_SL
+    2100072: Rav_A_1
+    2100074: FLwall
+    2100076: HWStone_GS
+    2100078: skurgeWall_SL
+    2100080: greyslate_1
+    2100082: PotionWall_1
+    2100084: Rwall_D_1
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Group122
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.005
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

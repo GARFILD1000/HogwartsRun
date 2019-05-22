@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 7bafd5f47fae9164ea86f03eb3a9bd1a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Dummy01
+    100004: Ford_Anglia
+    100006: //RootNode
+    100008: skFordFlyingTex0
+    100010: skFordFlyingTex1
+    100012: skFordFlyingTex2
+    100014: Trunk
+    100016: Trunk_end
+    400000: Armature
+    400002: Dummy01
+    400004: Ford_Anglia
+    400006: //RootNode
+    400008: skFordFlyingTex0
+    400010: skFordFlyingTex1
+    400012: skFordFlyingTex2
+    400014: Trunk
+    400016: Trunk_end
+    2100000: skFordFlyingTex1
+    2100002: skFordFlyingTex0
+    2100004: skFordFlyingTex2
+    4300000: skFordFlyingTex1
+    4300002: skFordFlyingTex0
+    4300004: skFordFlyingTex2
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: skFordFlyingTex0
+    13700002: skFordFlyingTex1
+    13700004: skFordFlyingTex2
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: FordFlyingAnimated(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: FordFlyingAnimated(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000081460335, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dummy01
+      parentName: Armature
+      position: {x: 0.00192, y: 0, z: 0}
+      rotation: {x: -0.97534233, y: 9.529822e-28, z: -7.7109066e-27, w: 0.22069757}
+      scale: {x: 1, y: 1.0000023, z: 1.0000023}
+    - name: Ford_Anglia
+      parentName: Dummy01
+      position: {x: -0, y: -0.00192, z: 3.5527136e-17}
+      rotation: {x: 0.10449043, y: 0.20506367, z: 0.42992428, w: 0.8730383}
+      scale: {x: 1, y: 0.99999934, z: 0.99999934}
+    - name: Trunk
+      parentName: Ford_Anglia
+      position: {x: -0.7243058, y: 0.00000007631929, z: 0.17603737}
+      rotation: {x: 0.2976192, y: -0.000000707805, z: 0.6339902, w: 0.7137781}
+      scale: {x: 1, y: 1.0000014, z: 1.0000014}
+    - name: Trunk_end
+      parentName: Trunk
+      position: {x: -0, y: 0.7453912, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skFordFlyingTex1
+      parentName: FordFlyingAnimated(Clone)
+      position: {x: -0, y: -3.5884098e-17, z: -1.5685437e-24}
+      rotation: {x: 0.000000021855694, y: 0, z: 5.363e-41, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skFordFlyingTex0
+      parentName: FordFlyingAnimated(Clone)
+      position: {x: -0, y: -3.7305791e-19, z: -1.6306881e-26}
+      rotation: {x: 0.000000021855694, y: -1.4444475e-34, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skFordFlyingTex2
+      parentName: FordFlyingAnimated(Clone)
+      position: {x: -0, y: -3.7305791e-19, z: -1.6306881e-26}
+      rotation: {x: 0.000000021855694, y: -1.4444475e-34, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 31eca6e2fd835de4589ccbfb71749572
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: default
+    100002: //RootNode
+    400000: default
+    400002: //RootNode
+    2100000: skBooksBookRow1Tex0
+    2100002: skChairsTeacherTex0
+    2100004: skTableTrestleTex0
+    2100006: skCandlesWallSingleCandleTex0
+    2100008: skLampWallTex0
+    2100010: sktablelampTex0
+    2100012: skharrybedTex0
+    2100014: skDresserTex0
+    2100016: skBooksFlourishStandTex0
+    2100018: skTreeSprite04Tex0
+    2100020: skTreeSprite01Tex0
+    2100022: skTrunkHogwarts1Tex0
+    2100024: skTrunkTex0
+    2100026: skLampEntranceTex0
+    2100028: FlourishWindowCasing
+    2100030: BlueDoor_PD
+    2100032: darkhogwall2
+    2100034: harrymovietrim
+    2100036: woodfence_PD
+    2100038: extwindow_PD
+    2100040: Forestgrass
+    2100042: shingles
+    2100044: Exteriorbrick_PD
+    2100046: GreenhouseWall2
+    2100048: HouseLine
+    2100050: shutter_PD
+    2100052: cloud512Privet
+    2100054: darkhogwall2_1
+    2100056: sidewalk
+    2100058: street
+    2100060: brick_PD
+    2100062: greenguide
+    2100064: bedroomdoor_PD
+    2100066: corkBoard_PD
+    2100068: bedroomshag_PD
+    2100070: drawing_PD
+    2100072: harrymoviewall
+    2100074: bedroomC_PD
+    2100076: bedroomcloset_PD
+    2100078: flagstone_PD
+    2100080: cosLogo1
+    2100082: cosLogo2
+    2100084: CloudPuff_Privet
+    2100086: Alcove_PD
+    2100088: alcoveRoof_PD
+    2100090: AlcoveDoor_PD
+    2100092: greenstoneFloor
+    2100094: FlourishWdWall2_PD
+    2100096: BookShelf1_PD
+    2100098: WoodFloor_PD
+    2100100: Railing_PD
+    2100102: WoodCeiling_PD
+    2100104: BookShelf2_PD
+    2100106: FlourishWdWall1
+    2100108: Banister_PD
+    2100110: Woodarch2_PD
+    2100112: FlourishWindowCasing_PD
+    2100114: SloneSlab_PD
+    2100116: FlourishWindow_PD
+    2100118: WoodBeam_PD
+    2100120: DoorFrame3
+    2100122: BlackDoor_PD
+    2100124: WoodButt_1
+    2100126: bwall4
+    2100128: DoorFrame1_PD
+    2100130: DoorFrame2_PD
+    2100132: GreenWindowCasing_PD
+    2100134: flagstone_D
+    2100136: FloorTrans_PD
+    2100138: FlourishUnder_PD
+    2100140: sidewalk_PD
+    2100142: streetcobbled_PD
+    2100144: FlourishFl2_PD
+    2100146: FlourishDoor_PD
+    2100148: FlourishBrick_PD
+    2100150: Clapboards3_PD
+    2100152: SquareWindow_PD
+    2100154: BlueShingles_PD
+    2100156: UpperWindow1_PD
+    2100158: SlateShingles_PD
+    2100160: GreenWindow_PD
+    2100162: GreenWindowCasing2_PD
+    2100164: Clapboards1_PD
+    2100166: GreenShingles_PD
+    2100168: GreenDoor_PD
+    2100170: Night_02_FR
+    2100172: Night_02_LF
+    2100174: Night_02_BK
+    2100176: Night_02_RT
+    2100178: Night_02_UP
+    2100180: Night_02_DN
+    2100182: Clapboards2_PD
+    2100184: Window_PD
+    2100186: Win8_T1_B
+    2300000: default
+    3300000: default
+    4300000: default
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
